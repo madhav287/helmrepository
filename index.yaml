@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mavenwebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-12T09:44:23.531332447Z"
+    description: A Helm chart for Maven Web Application
+    digest: 995da537122aa07ef773eef86b3362ac5b90dbc9a78772c1316d7e265c773a1c
+    name: mavenwebapp
+    type: application
+    urls:
+    - https://madhav287.github.io/helmrepository/mavenwebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-12T09:44:23.53044743Z"
